@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/cssparser-0.9.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/htmlunit-2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/htmlunit-core-js-2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/httpclient-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/httpmime-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/java-client-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/java-client-3.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/java-client-3.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/jetty-io-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/jetty-util-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/nekohtml-1.9.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/selenium-java-2.47.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/selenium-java-2.47.1-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/websocket-api-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/websocket-client-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/websocket-common-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dongqiuyue/Desktop/appium/jar/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
